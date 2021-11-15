@@ -8,3 +8,6 @@ Var olan kullanıcıadı ve şifreleri;<br/>
 &emsp;Normal Çalışan;<br/>
 &emsp;&emsp;      KullanıcıAdı : KamilAlperen<br/>
 &emsp;&emsp;      Şifre : KamilAlperen_123<br/>
+<br/>
+Video 1 : https://youtu.be/LYx3RIcJBvA<br/>
+Video 2 : https://youtu.be/mdvsxtfMHG8
