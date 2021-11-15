@@ -1,10 +1,10 @@
 # 2021_Fall_Bil372_Odev1_KamilAlperenYilmaz
 Çalıştırmak için;<br/>
-      python main.py<br/>
+&emsp;python main.py<br/>
 Var olan kullanıcıadı ve şifreleri;<br/>
-      Sistem Yöneticisi;<br/>
-            KullanıcıAdı : SystemAdmin<br/>
-            Şifre : SystemAdmin_123<br/>
-      Normal Çalışan;<br/>
-            KullanıcıAdı : KamilAlperen<br/>
-            Şifre : KamilAlperen_123<br/>
+&emsp;Sistem Yöneticisi;<br/>
+&emsp;      KullanıcıAdı : SystemAdmin<br/>
+&emsp;      Şifre : SystemAdmin_123<br/>
+&emsp;Normal Çalışan;<br/>
+&emsp;      KullanıcıAdı : KamilAlperen<br/>
+&emsp;      Şifre : KamilAlperen_123<br/>
